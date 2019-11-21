@@ -1,0 +1,10 @@
+VP Colors 2.0:
+
+- Random Color objects (normal - wire - transparency)
+
+- Custom color ob objects
+
+- Random Color on materials
+
+- Random color on nulls
+
